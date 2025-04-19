@@ -456,7 +456,7 @@ Okay, here is the frontend development documentation based on the provided PRD s
 
 3.  **不确定的技术细节:**
     *   Next.js 使用 App Router 还是 Pages Router。
-    *   最终确认的 UI 组件库/方案。
+    *   最终确认的 UI 组件库/方案。决定选择Shadcn UI组件库
     *   最终确认的 RTE 库。
     *   具体的 ESlint/Prettier 配置规则。
 
